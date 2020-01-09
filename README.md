@@ -1,4 +1,4 @@
-# [MenheraChan Robot](https://t.me/MenheraChanrobot)
+# [MenheraChanRobot](https://t.me/MenheraChanrobot)
 
 ## Intro
 
