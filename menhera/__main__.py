@@ -28,7 +28,9 @@ I'm a group manager bot maintained by this [sexy boi](https://t.me/TheDarkW3b) I
 
 Want to add me to your group? [Click here!](t.me/MenheraChanRoBot?startgroup=true)
 
-Thanks For Using Me"""
+Thanks For Using Me 
+
+If you like my work 🙂 Kindly Donate Me At @TheDarkW3b """
 
 
 IMPORTED = {}
